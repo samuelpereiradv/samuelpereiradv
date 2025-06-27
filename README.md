@@ -18,7 +18,7 @@
 </div>
 <br>
 <div align="center">
-  <img alt="Samuel-Jv" width="850" src="https://media.discordapp.net/attachments/1388219732691386378/1388219779667460227/download_4.gif?ex=68602feb&is=685ede6b&hm=2777081622886c4576243b044fd235f5b231c53624ac4f97a3bca081dd5911f8&=">
+  <img alt="Samuel-Jv"  src="https://media.discordapp.net/attachments/1388219732691386378/1388219779667460227/download_4.gif?ex=68602feb&is=685ede6b&hm=2777081622886c4576243b044fd235f5b231c53624ac4f97a3bca081dd5911f8&=">
 </div>
 
 
