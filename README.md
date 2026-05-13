@@ -5,6 +5,12 @@
 </a>
 </div> -->
 
+# 👋 Olá, eu sou o Samuel
+
+Desenvolvedor Backend/Fullstack focado em Java e Python.
+Apaixonado por arquitetura, performance e sistemas escaláveis.
+
+## 🚀 Tecnologias
 <br>
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
@@ -17,6 +23,11 @@
   <img align="center" alt="Samuel-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"">
 </div>
 <br>
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/samuel-pereira-ds)
+- samuelpereirasts@gmail.com
+
 <div align="center">
   <img 
     alt="Samuel-Gif"
