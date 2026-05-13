@@ -7,7 +7,7 @@
 
 # 👋 Olá, eu sou o Samuel
 
-Desenvolvedor Backend/Fullstack focado em Java e Python.
+Desenvolvedor Backend/Fullstack focado em Java, Python e Engenharia de Prompt.
 Apaixonado por arquitetura, performance e sistemas escaláveis.
 
 ## 🚀 Tecnologias
