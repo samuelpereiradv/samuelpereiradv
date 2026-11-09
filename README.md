@@ -5,7 +5,7 @@
        
 </div>
 
-# 👋 Olá, eu sou o Samuel!
+# Olá, eu sou o Samuel!
 
 **Desenvolvedor de Software em formação | Ciência da Computação | Estagiário de TI na Anatel**
 
@@ -41,7 +41,7 @@ Meu objetivo é evoluir constantemente como desenvolvedor, construir soluções 
 
 </div>
 
-## 🧠 Interesses e objetivos
+## Interesses e objetivos
 
 - Engenharia de Software e desenvolvimento de sistemas.
 - Desenvolvimento Back-end e integração de APIs.
@@ -49,15 +49,15 @@ Meu objetivo é evoluir constantemente como desenvolvedor, construir soluções 
 - Inteligência Artificial e Engenharia de Prompts.
 - Automação de processos e soluções tecnológicas.
 
-## 📌 Projetos
+## Projetos
 
 Aqui compartilho alguns dos meus projetos acadêmicos e pessoais, experimentos, estudos e soluções desenvolvidas durante minha trajetória na tecnologia.
 
 Cada repositório representa uma oportunidade de aprender algo novo, aprimorar minhas habilidades e colocar conhecimentos em prática.
 
-## 📫 Vamos nos conectar?
+## Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Pereira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-pereira-ds/)
 
-## 📫 Contato
+## Contato
 - samuelpereirasts@gmail.com
