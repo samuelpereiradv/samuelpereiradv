@@ -1,7 +1,6 @@
 <div align="center" >
-  <img src="https://media.discordapp.net/attachments/1388219732691386378/1569330899076776072/download_61.gif?ex=6af310cb&is=6af1bf4b&hm=6616fcd348a16d7a3f685aee03a24568e51106db7724a83ce1f4f86331c63cd1&="
-       alt="CAN I TRY AGAIN?"
-       height = "250">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&section=header&reversal=false&text=Hello%2C+I%27m+Samuel%21%21&textBg=false&fontSize=70&fontAlign=50&fontAlignY=36&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"
+       width = "100%">
        
 </div>
 
